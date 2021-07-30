@@ -9,8 +9,12 @@ Write normal HTML, CSS AND JAVSCRIPT and see the output on the page! **So basica
 ## Tech Stuff
 
 -   React JS
+
     -   useState
+
     -   useEffect
+
+-   Deployed on Github Pages.
 
 ## Contribution
 
