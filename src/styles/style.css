@@ -25,6 +25,10 @@
     margin-left: 10px;
 }
 
+.navbar a {
+    text-decoration: none;
+}
+
 .navbar button {
     background: white;
     color: black;
