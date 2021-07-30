@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/codepen_clone/static/css/main.f0ae5f1d.chunk.css",
-    "main.js": "/codepen_clone/static/js/main.4f9b7fbf.chunk.js",
-    "main.js.map": "/codepen_clone/static/js/main.4f9b7fbf.chunk.js.map",
+    "main.css": "/codepen_clone/static/css/main.519d86ac.chunk.css",
+    "main.js": "/codepen_clone/static/js/main.1eb18cd2.chunk.js",
+    "main.js.map": "/codepen_clone/static/js/main.1eb18cd2.chunk.js.map",
     "runtime-main.js": "/codepen_clone/static/js/runtime-main.76260cc0.js",
     "runtime-main.js.map": "/codepen_clone/static/js/runtime-main.76260cc0.js.map",
     "static/js/2.a5838db4.chunk.js": "/codepen_clone/static/js/2.a5838db4.chunk.js",
     "static/js/2.a5838db4.chunk.js.map": "/codepen_clone/static/js/2.a5838db4.chunk.js.map",
     "index.html": "/codepen_clone/index.html",
-    "static/css/main.f0ae5f1d.chunk.css.map": "/codepen_clone/static/css/main.f0ae5f1d.chunk.css.map",
+    "static/css/main.519d86ac.chunk.css.map": "/codepen_clone/static/css/main.519d86ac.chunk.css.map",
     "static/js/2.a5838db4.chunk.js.LICENSE.txt": "/codepen_clone/static/js/2.a5838db4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76260cc0.js",
     "static/js/2.a5838db4.chunk.js",
-    "static/css/main.f0ae5f1d.chunk.css",
-    "static/js/main.4f9b7fbf.chunk.js"
+    "static/css/main.519d86ac.chunk.css",
+    "static/js/main.1eb18cd2.chunk.js"
   ]
 }
