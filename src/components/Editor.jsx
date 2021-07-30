@@ -1,6 +1,4 @@
 import React from "react";
-import Prism from "prismjs";
-import "../styles/prism.css";
 
 const Editor = ({ lang, value, onChange }) => {
     return (
